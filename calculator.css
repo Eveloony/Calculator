@@ -1,10 +1,4 @@
 #Output {
-    color: white;
-    background-color: black;
-}
-#Input {
-    background-color: black;
-}#Output {
     text-align: right;
     color: white;
     background-color: black;
@@ -35,6 +29,7 @@ button {
 #zero {
     width: 160px;
     border-radius: 50% 50% 50% 50% / 100% 100% 100% 100%;
+    padding: 2px 90px 2px 10px;
 }
 .orange {
     background-color: orange;
