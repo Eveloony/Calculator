@@ -1,1 +1,5 @@
-//this is just a place holder for javascript file for now
+function buttonHandler(id) {
+    console.log(id);
+    document.getElementById("Output").textContent=id
+}
+//I am dumb
